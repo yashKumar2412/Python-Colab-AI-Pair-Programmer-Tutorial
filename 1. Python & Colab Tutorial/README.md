@@ -1,4 +1,5 @@
-#Python & Colab Tutorial
+# Python & Colab Tutorial
+
 For this section, I went through the following videos on Python and Google Colab.
 * [Python Programming by Derek Banas](https://www.youtube.com/watch?v=N4mEzFDjqtA)
 * [Practical Introduction to Google Colab for Data Science by Data Professor](https://www.youtube.com/watch?v=oCngVVBSsmA)
