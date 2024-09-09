@@ -9,6 +9,6 @@ For this section, I experimented with the AutoML No Code tool on Akkio.com to cr
 
 The artifacts uploaded include:
 * housing.csv - The [Kaggle California Housing Prices dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices/data).
-* housing_processed.csv - The clean and normalized version of dataset obtained from Akkio.
+* housing_processed.csv - The cleaned and normalized version of dataset obtained from Akkio.
 
 For a detailed walkthrough, watch the [walkthrough video](https://www.youtube.com/watch?v=2om0brlqj3w) I uploaded for the same.
